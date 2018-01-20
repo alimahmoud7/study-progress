@@ -37,8 +37,6 @@ Work through these courses, read the books listed below, and frequently suppleme
 - [Tier 3 - More Python and Basic CS](#tier-3---more-python-and-basic-cs)
 - [Tier 4 - Wrap everything up and prep for interviews](#tier-4---wrap-everything-up-and-prep-for-interviews)
 
----
-
 ## Tier 0 - Prep
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2. 
 
@@ -46,7 +44,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
 - [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
 - [ ]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
----
 
 ## Tier 1 - Non-Python frontend necessities for Web Development
 **Goal:** Become Proficient with HTML, CSS and JavaScript, including the frontend framework/library of your choice plus D3.
@@ -70,8 +67,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
 - [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days.
 
----
-
 ## Tier 2 - Python Basics
 **Goal:** Become familiar with Python, MongoDB, and the Flask or Django framework and begin building proficiency with creating full stack web applications with Python on the backend.
 - [ ]  Challenge: [Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3) on Hackerrank. Sign up now and work problems alongside the guide as you progress.
@@ -87,7 +82,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
 - [ ]  Project: Do a one week Speedrun of the FreeCodeCamp Projects, finishing as many as you can in seven days.
 
----
 ## Tier 3 - More Python and Basic CS
 **Goal:** Learn Python to a deeper level, ensuring you understand the algorithms and data structures you're likely to encounter in interviews (and on the job).
 
@@ -104,7 +98,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Create a Portfolio highlighting your best work.
 - [ ]  Project: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [ ]  Project: Do a one month Speedrun of the FreeCodeCamp Projects, finishing as many as you can in 30 days. 
----
 
 ## Tier 4 - Wrap everything up and prep for interviews
 **Goal:** Interview with confidence.
@@ -113,6 +106,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
 - [ ]  Project: Continue honing your skills as you interview. Participate in more bot competitions on CodinGame, participate in competitions on Kaggle, contribute to open source JavaScript or Python projects, work on side projects that illustrate your frontend skill.
+
 ---
 
 ## Bonus List
@@ -160,7 +154,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 *   Clone your favorite browser extension, or create one you wish existed.
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
----
 
 ## Book Suggestions
 
