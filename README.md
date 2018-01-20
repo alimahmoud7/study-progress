@@ -7,7 +7,8 @@ In each folder, separated by year, are my notes, etc related to what I'm studyin
 My goals are to 
 * be proficient with Python and JavaScript
 * build good projects
-* increase my network of communications 
+* increase my network of communications
+* contribute to an open source project 
 * get a job as full stack developer / software engineer
 
 ## Rules
