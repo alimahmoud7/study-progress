@@ -2,14 +2,15 @@
 
 In each folder, separated by year, are my notes, etc related to what I'm studying, doing, learning...
 
+You can find my name on the list here [speedstudy](https://github.com/P1xt/speedstudy), My goal is to see how many points I can rack up by December 31, 2018.
+
 ## 2018
 
-My goals are to 
+My main goals are to 
 * be proficient with Python and JavaScript
 * build good projects
-* increase my network of communications
 * contribute to an open source project 
-* get a job as full stack developer / software engineer
+* increase my network of communications
 
 ## Rules
 
@@ -29,6 +30,8 @@ Total Points earned:
 
 
 ## Get Job Ready - Python Edition
+
+Check the [general FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md), [FAQ for this guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md#faq-for-this-guide), all [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 Work through these courses, read the books listed below, and frequently supplement with "bonus activities" listed below.
 
@@ -144,7 +147,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Project ideas
 
-* [Practice Speedrun](https://github.com/P1xt/p1xt-guides/tree/master/speedrun-practice)
+*  Speedrun / Practice on [Fullstack Web Development](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/fullstack-dev.md)
+*  Speedrun / Practice on [Algorithms and Data Structures](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/algorithms.md)
+* [ ] Project: USB demon clone
+* [ ] Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice)
 *   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
 *   Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -158,12 +164,41 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Book Suggestions
 
+* [ ] Google Style Guide: for [Python](https://google.github.io/styleguide/pyguide.html), [JavaScript](https://google.github.io/styleguide/jsguide.html), [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+* [ ] Google Style Guide: for [JavaScript](https://google.github.io/styleguide/jsguide.html), [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+* [ ] Google Style Guide: for [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+* [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+* [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
+* [ ] [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+
 Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
 
-## More
+## More Courses
 
-You can find my name on the list here [speedstudy](https://github.com/P1xt/speedstudy)
+pick and choose, no particular order
 
-* Original [Get Job Ready - Python Edition](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md)
-* [FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md)
-* [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+* [ ] Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+* [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+* [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+* [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+* [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+* [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
+* [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+* [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [ ] Course: [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+* [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+* [ ] Courses: Finish Full Stack Nanodegree Career Part
+* [ ] Courses: Finish Full Stack Nanodegree Elective Part
+* [ ] Course: [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
+* [ ] Path: [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
+* [ ] Specialization: [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+* [ ] Course: [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
+* [ ] Course: [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
+* [ ] Courses: Finish Google Developer Scholarship on Udacity
+* [ ] Courses: [Getting Sassy with CSS](http://www.sassshop.com/)
+* [ ] Course: CEH 
+* [ ] Course: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
+* [ ] Path: [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
+* [ ] Course: CCNA or Network+ 
+
