@@ -164,8 +164,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Book Suggestions
 
-* [ ] Google Style Guide: for [Python](https://google.github.io/styleguide/pyguide.html), [JavaScript](https://google.github.io/styleguide/jsguide.html), [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
-* [ ] Google Style Guide: for [JavaScript](https://google.github.io/styleguide/jsguide.html), [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+* [ ] Google Style Guide: for [Python](https://google.github.io/styleguide/pyguide.html)
+* [ ] Google Style Guide: for [JavaScript](https://google.github.io/styleguide/jsguide.html)
 * [ ] Google Style Guide: for [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
 * [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 * [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
