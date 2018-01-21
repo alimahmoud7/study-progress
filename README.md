@@ -189,8 +189,8 @@ pick and choose, no particular order
 * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
-* [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+* [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 * [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
