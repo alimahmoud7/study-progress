@@ -47,7 +47,7 @@ Work through these courses, read the books listed below, and frequently suppleme
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
 - [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
 - [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
-- [ ]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+- [x]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 
 ## Tier 1 - Non-Python frontend necessities for Web Development
 **Goal:** Become Proficient with HTML, CSS and JavaScript, including the frontend framework/library of your choice plus D3.
@@ -177,29 +177,29 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 pick and choose, no particular order
 
-* [ ] Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
-* [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-* [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-* [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-* [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-* [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
-* [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-* [ ] Course: [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
-* [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-* [ ] Courses: Finish Full Stack Nanodegree Career Part
-* [ ] Courses: Finish Full Stack Nanodegree Elective Part
-* [ ] Course: [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
-* [ ] Path: [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
-* [ ] Specialization: [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
-* [ ] Course: [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
-* [ ] Course: [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
-* [ ] Courses: Finish Google Developer Scholarship on Udacity
-* [ ] Courses: [Getting Sassy with CSS](http://www.sassshop.com/)
-* [ ] Course: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
-* [ ] Path: [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
-* [ ] Course: CCNA or Network+ 
+* [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+* [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+* [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+* [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+* [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+* [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
+* [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+* [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+* [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+* [ ]  Finish Full Stack Nanodegree Career Part
+* [ ]  Finish Full Stack Nanodegree Elective Part
+* [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
+* [ ]  [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
+* [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+* [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
+* [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
+* [ ]  Finish Google Developer Scholarship on Udacity
+* [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
+* [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
+* [ ]  [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
+* [ ]  CCNA or Network+ 
 
 
 ## Helpful links
