@@ -20,8 +20,8 @@ My main goals are to
 
 ## Progress
 
-Current Course: Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)                   
-Courses Completed: 0                                                                                                                     
+Current Course: Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)  
+Courses Completed: 0  
 Total Points earned: 
 
 | Date Finished | Activity                  | Points | Links  |           
