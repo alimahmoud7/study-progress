@@ -149,8 +149,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 *  Speedrun / Practice on [Fullstack Web Development](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/fullstack-dev.md)
 *  Speedrun / Practice on [Algorithms and Data Structures](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/algorithms.md)
-* [ ] Project: USB demon clone
-* [ ] Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice)
+* USB demon clone project
+* Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice)
 *   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
 *   Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
@@ -171,7 +171,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 * [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 * [ ] [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 
-Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
+**Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)**
 
 ## More Courses
 
@@ -197,8 +197,50 @@ pick and choose, no particular order
 * [ ] Course: [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
 * [ ] Courses: Finish Google Developer Scholarship on Udacity
 * [ ] Courses: [Getting Sassy with CSS](http://www.sassshop.com/)
-* [ ] Course: CEH 
 * [ ] Course: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
 * [ ] Path: [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
 * [ ] Course: CCNA or Network+ 
 
+
+## Helpful links
+
+- [surge.sh](https://surge.sh/)
+- [heroku](https://www.heroku.com/)
+- [Glitch](https://glitch.com/)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [YDKJS](https://github.com/getify/You-Dont-Know-JS/)
+- For when you need assets/ideas
+  - [pixabay](https://pixabay.com/)
+  - [Unsplash](https://unsplash.com/)
+  - [Pexels](https://www.pexels.com/)
+  - [LibreStock](http://librestock.com/)
+  - [Google Fonts](https://fonts.google.com/)
+  - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
+- Official Docs
+  - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
+  - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
+  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
+  - [Sass](http://sass-lang.com/guide) - supercharged CSS
+  - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
+  - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
+  - [MongoDB](https://docs.mongodb.com/) - for storing data
+  - [Mongoose](http://mongoosejs.com/) - access to MongoDB from Node.js made easy(er)
+  - [Passport.js](http://passportjs.org/) - remember this link when you have to setup a login system
+  - [D3](https://d3js.org/) - for creating awesome graphs and charts
+  - [Angular](https://angular.io/) - option for creating single page apps on the frontend
+  - [React](https://reactjs.org/) - option for creating single page apps on the frontend
+  - [Vue](https://vuejs.org/) - option for creating single page apps on the frontend
+  - [Redux](http://redux.js.org/) - for managing state in a single page app
+  - [Mocha](https://mochajs.org/) - venture into testing
+  - [Karma](https://karma-runner.github.io/1.0/index.html) - venture into testing
+  - [Jest](https://facebook.github.io/jest/) - venture into testing
+  - [Webpack](https://webpack.github.io/) - module bundler for use in your build process (so you can minify your HTML/CSS/JavaScript among other things and deliver an optimized build to production)
+  - [Babel](http://babeljs.io/) - makes the new JavaScript work on old browsers (or node versions for that matter)
+  - [Gulp](https://gulpjs.com/) - for automating your workflow
+  - [ESLint](https://eslint.org/) - for helping to keep your code clean
+  - [Prettier](https://prettier.io/) - more help keeping your code clean
+  - [Travis](https://travis-ci.org/) - continuous deployment (how to trigger a build/deploy whenever you commit your changes via git)
+
+---
+
+Follow me on [Twitter](https://twitter.com/Ali_Mahmoud_7) - Hire me from [LinkedIn](https://www.linkedin.com/in/alimahmoud7/)
