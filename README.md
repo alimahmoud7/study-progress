@@ -20,7 +20,7 @@ My main goals are to
 
 ## Progress
 
-Current Course:    
+Current Course: Google Developer Challenge Scholarship: Mobile Web
 Courses Completed: 0  
 Total Points earned: 
 
@@ -177,27 +177,26 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 pick and choose, no particular order
 
-* [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+* [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+* [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+* [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+* [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-* [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
-* [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-* [ ]  Finish Full Stack Nanodegree Career Part
-* [ ]  Finish Full Stack Nanodegree Elective Part
-* [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
-* [ ]  [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
+* [ ]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)
+* [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
+* [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
 * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+* [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
 * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
 * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
-* [ ]  Finish Google Developer Scholarship on Udacity
-* [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
-* [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
+* [ ]  [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
 * [ ]  [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
 * [ ]  CCNA or Network+ 
 
