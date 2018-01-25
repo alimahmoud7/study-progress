@@ -21,11 +21,16 @@ My main goals are to
 ## Progress
 
 Current Course: Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)  
-Courses Completed: 0  
+Courses Completed: 210  
 Total Points earned: 
 
-| Date Finished | Activity                  | Points | Links  |           
-| ------------- | ------------------------- | ------ | ------------------------------------------- |
+| Date Finished | Activity      | Points | Links     |
+| ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
+| 24-1-2018     | Course        | 100    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
+| 24-1-2018     | Workout       | 10     | [You Are Your Own Gym](https://play.google.com/store/apps/details?id=com.leafcutterstudios.yayog&hl=en) (Day 1) |
+| 25-1-2018     | Duolingo (English level 10) | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
+| WIP           | Course        | 200    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
+|  |  |  |  |
 |  |  |  |  |
 
 
