@@ -126,6 +126,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 | Substantial Project                         | 200                   | project       |
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
+| Official Docs (part)                        | 50                    | foundation    | 
+| Official Docs (total)                       | 300                   | foundation    | 
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
