@@ -20,17 +20,17 @@ My main goals are to
 
 ## Progress
 
-Current Course: Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)  
-Courses Completed: 1  
-Total Points earned: 210
+Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)   
+Courses Completed: 3  
+Total Points earned: 410
 
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 24-1-2018     | Course        | 100    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
 | 24-1-2018     | Workout       | 10     | [You Are Your Own Gym](https://play.google.com/store/apps/details?id=com.leafcutterstudios.yayog&hl=en) (Day 1) |
 | 25-1-2018     | Duolingo (English level 10) | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
-| WIP           | Course        | 200    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
-|  |  |  |  |
+| 1-2-2018           | 2 Courses        | 200    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
+| WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
 |  |  |  |  |
 
 
