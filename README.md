@@ -20,8 +20,9 @@ My main goals are to
 
 ## Progress
 
-Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)   
-Courses Completed: 3  
+Current Course/Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)   
+Courses Completed: 3
+Books Completed: 0
 Total Points earned: 410
 
 | Date Finished | Activity      | Points | Links     |
@@ -187,7 +188,7 @@ pick and choose, no particular order
 * [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
 * [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
-* [ ]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)
+* [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)
 * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
 * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
 * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
