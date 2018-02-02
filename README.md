@@ -11,6 +11,7 @@ My main goals are to
 * build good projects
 * contribute to an open source project 
 * increase my network of communications
+* get a job as a software engineer/full-stack developer
 
 ## Rules
 
@@ -21,8 +22,8 @@ My main goals are to
 ## Progress
 
 Current Course/Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
-Courses Completed  : 3  
-Books Completed    : 0  
+Courses Completed: 3  
+Books Completed: 0  
 Total Points earned: 410  
 
 | Date Finished | Activity      | Points | Links     |
