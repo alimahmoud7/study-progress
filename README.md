@@ -24,14 +24,14 @@ My main goals are to
 Current Course/Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
 Courses Completed: 3  
 Books Completed: 0  
-Total Points earned: 410  
+Total Points earned: 860    
 
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 24-1-2018     | Course        | 100    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
+| 24-1-2018     | Course        | 250    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
 | 24-1-2018     | Workout       | 10     | [You Are Your Own Gym](https://play.google.com/store/apps/details?id=com.leafcutterstudios.yayog&hl=en) (Day 1) |
 | 25-1-2018     | Duolingo (English level 10) | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
-| 1-2-2018           | 2 Courses        | 200    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
+| 1-2-2018           | 2 Courses        | 500    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
 | WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
 |  |  |  |  |
 |  |  |  |  |
@@ -133,7 +133,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 | Official Docs (total)                       | 300                   | foundation    | 
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
-| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
+| Tutorial site (Udacity/Pluralsight/Egghead/Treehouse/etc) course                            | 250                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
 | Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
