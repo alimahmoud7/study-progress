@@ -2,7 +2,7 @@
 
 In each folder, separated by year, are my notes, etc related to what I'm studying, doing, learning...
 
-You can find my name on the list here [speedstudy](https://github.com/P1xt/speedstudy), My goal is to see how many points I can rack up by December 31, 2018.
+You can find my name on the list here [speedstudy](https://github.com/P1xt/speedstudy#progress), My goal is to see how many points I can rack up by December 31, 2018.
 
 ## 2018
 
