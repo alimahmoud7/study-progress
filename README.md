@@ -237,12 +237,11 @@ pick and choose, no particular order
 - Google Search Education:
   * [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
-- Official Docs:
-  * [ ]  MDN [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
-  * [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
-
 - Youtube:
   * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
+
+- Others:
+  * [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 
 
 ## Helpful links
@@ -260,6 +259,7 @@ pick and choose, no particular order
   - [Google Fonts](https://fonts.google.com/)
   - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
 - Official Docs
+  - [MDN Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
   - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
   - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
   - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
