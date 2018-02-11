@@ -194,6 +194,11 @@ pick and choose, no particular order
   * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
   * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+  * [ ]  [Linear Algebra Refresher Course](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
+  * [ ]  [Intro to Statistics](https://eu.udacity.com/course/intro-to-statistics--st101)
+  * [ ]  [Intro to Inferential Statistics](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
+  * [ ]  [Intro to Descriptive Statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
+  
 
 - Coursera:
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
