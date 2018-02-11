@@ -187,17 +187,22 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 pick and choose, no particular order
 
 - Udacity:
-  * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea)
+  * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
+  * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac) covers []() and []()
   * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
   * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
-  * [ ] [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
+  * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-  * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) 
+  * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 - Coursera:
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
   * [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
   * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
+  * [ ]  [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
+  * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
+  * [ ]  [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php)
+  * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 - edX:
   * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
@@ -205,30 +210,34 @@ pick and choose, no particular order
   * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
   * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
   * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-  
-- FutureLearn:
-  * [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+  * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
 - Stanford Online:
   * [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-- Pluralsight:
-  * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
-  * [ ]  [Python Path | Pluralsight](https://www.pluralsight.com/paths/python)
-  * [ ]  [Ethical Hacking - CEH Path | Pluralsight](https://www.pluralsight.com/paths/ethical-hacking)
+- MIT OpenCourseWare:
+  * [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
+  * [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 
+- Pluralsight:
+  * [ ]  [Python Path](https://www.pluralsight.com/paths/python)
+  * [ ]  [Ethical Hacking - CEH Path](https://www.pluralsight.com/paths/ethical-hacking)
+
+- FutureLearn:
+  * [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+  
+- MongoDB University:
+  * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+  
 - Google Search Education:
   * [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
-- MongoDB University:
-  * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
-
 - Official Docs:
-  * [ ] MDN [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+  * [ ]  MDN [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
   * [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 
 - Youtube:
-  * [ ]  CCNA or Network+ 
+  * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
 
 
 ## Helpful links
