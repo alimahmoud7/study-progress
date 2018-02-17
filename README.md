@@ -191,6 +191,7 @@ pick and choose, no particular order
   * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac) covers []() and []()
   * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
   * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
+  * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
   * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
   * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
@@ -198,7 +199,9 @@ pick and choose, no particular order
   * [ ]  [Intro to Statistics](https://eu.udacity.com/course/intro-to-statistics--st101)
   * [ ]  [Intro to Inferential Statistics](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
   * [ ]  [Intro to Descriptive Statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
-  
+  * [ ]  [Intro to Data Analysis](https://eg.udacity.com/course/intro-to-data-analysis--ud170)
+  * [ ]  [Intro to Machine Learning](https://eg.udacity.com/course/intro-to-machine-learning--ud120)
+  * [ ]  [Intro to Artificial Intelligence](https://eg.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
 - Coursera:
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
@@ -208,6 +211,7 @@ pick and choose, no particular order
   * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
   * [ ]  [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php)
   * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
+  * [ ]  [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
 - edX:
   * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
