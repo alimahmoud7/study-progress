@@ -20,7 +20,7 @@ My main goals are to
 
 ## Progress
 
-Current Course:    
+Current Course: MWS Nanodegree - Part 1 - [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)   
 Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
 Courses Completed: 3  
 Books Completed: 0  
@@ -29,9 +29,10 @@ Total Points earned: 850
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 24-1-2018     | Course        | 250    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
-| 25-1-2018     | Duolingo (English level 10) | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
+| 25-1-2018     | Duolingo (English level 10)  | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
 | 1-2-2018           | 2 Courses        | 500    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
 | WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
+| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)    |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -118,8 +119,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
 - [ ]  Project: Continue honing your skills as you interview. Participate in more bot competitions on CodinGame, participate in competitions on Kaggle, contribute to open source JavaScript or Python projects, work on side projects that illustrate your frontend skill.
 
----
-
 ## Bonus List
 
 | Activity                                    | Points for completing | Activity type |
@@ -171,6 +170,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
 
+---
+
 ## Book Suggestions
 
 * [ ] Google Style Guide: for [Python](https://google.github.io/styleguide/pyguide.html)
@@ -186,12 +187,17 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 pick and choose, no particular order
 
-- Udacity:
+- **Udacity**:
   * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
   * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac) covers []() and []()
   * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
   * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
   * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
+    - Part 1: Building Accessible and Responsive Web Apps:
+      - [ ] [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)
+      - [ ] [Responsive Images](https://eg.udacity.com/course/responsive-images--ud882)
+      - [ ] [Web Accessibility](https://eg.udacity.com/course/web-accessibility--ud891)
+      - [ ] Project: Restaurant Reviews App—Stage One
   * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
   * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
@@ -199,11 +205,11 @@ pick and choose, no particular order
   * [ ]  [Intro to Statistics](https://eu.udacity.com/course/intro-to-statistics--st101)
   * [ ]  [Intro to Inferential Statistics](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
   * [ ]  [Intro to Descriptive Statistics](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
-  * [ ]  [Intro to Data Analysis](https://eg.udacity.com/course/intro-to-data-analysis--ud170)
+  * [ ]  [Intro to Data Science](https://eg.udacity.com/course/intro-to-data-science--ud359), [Intro to Data Analysis](https://eg.udacity.com/course/intro-to-data-analysis--ud170)
   * [ ]  [Intro to Machine Learning](https://eg.udacity.com/course/intro-to-machine-learning--ud120)
   * [ ]  [Intro to Artificial Intelligence](https://eg.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
-- Coursera:
+- **Coursera**:
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
   * [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
   * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
@@ -213,7 +219,7 @@ pick and choose, no particular order
   * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [ ]  [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
-- edX:
+- **edX**:
   * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
   * [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
   * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
@@ -221,30 +227,32 @@ pick and choose, no particular order
   * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
   * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
-- Stanford Online:
+- **Stanford Online**:
   * [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-- MIT OpenCourseWare:
+- **MIT OpenCourseWare**:
   * [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
   * [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 
-- Pluralsight:
+- **Pluralsight**:
   * [ ]  [Python Path](https://www.pluralsight.com/paths/python)
   * [ ]  [Ethical Hacking - CEH Path](https://www.pluralsight.com/paths/ethical-hacking)
 
-- FutureLearn:
+- **FutureLearn**:
   * [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
   
-- MongoDB University:
+- **MongoDB University**:
   * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
   
-- Google Search Education:
+- **Google Search Education**:
   * [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
 
-- Youtube:
+- **Youtube**:
+  - Arabic Channels: [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv), [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy), [Elzero Web School](https://www.youtube.com/user/OsamaElzero)
+  - English Channels: [sentdex](https://www.youtube.com/user/sentdex), [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [thenewboston](https://www.youtube.com/user/thenewboston)
   * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
 
-- Others:
+- **Others**:
   * [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
 
 
