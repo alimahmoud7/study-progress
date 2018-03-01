@@ -20,7 +20,7 @@ My main goals are to
 
 ## Progress
 
-Current Course: MWS Nanodegree - Part 1 - [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)   
+Current Course: MWS Nanodegree - Part 1 - [Responsive Web Design](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)   
 Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
 Courses Completed: 3  
 Books Completed: 0  
@@ -32,7 +32,7 @@ Total Points earned: 850
 | 25-1-2018     | Duolingo (English level 10)  | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
 | 1-2-2018           | 2 Courses        | 500    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
 | WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
-| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)    |
+| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - [Responsive Web Design](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)    |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -225,7 +225,8 @@ pick and choose, no particular order
   * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
   * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
   * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-  * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+  * [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+  * [ ]  [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
 - **Stanford Online**:
   * [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
