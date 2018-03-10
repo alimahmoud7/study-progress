@@ -20,7 +20,7 @@ My main goals are to
 
 ## Progress
 
-Current Course: MWS Nanodegree - Part 1 - [Responsive Web Design](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)   
+Current Course: MWS Nanodegree - Part 1 - Responsive Web Design   
 Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
 Courses Completed: 3  
 Books Completed: 0  
@@ -32,14 +32,15 @@ Total Points earned: 850
 | 25-1-2018     | Duolingo (English level 10)  | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
 | 1-2-2018           | 2 Courses        | 500    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
 | WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
-| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - [Responsive Web Design](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)    |
+| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - Responsive Web Design  |
 |  |  |  |  |
 |  |  |  |  |
 
+---
 
 ## Get Job Ready - Python Edition
 
-Check the [general FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md), [FAQ for this guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md#faq-for-this-guide), all [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+Check the [general FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md), [FAQ for this guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md#faq-for-this-guide)   
 
 Work through these courses, read the books listed below, and frequently supplement with "bonus activities" listed below.
 
@@ -174,9 +175,16 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Book Suggestions
 
-* [ ] Google Style Guide: for [Python](https://google.github.io/styleguide/pyguide.html)
-* [ ] Google Style Guide: for [JavaScript](https://google.github.io/styleguide/jsguide.html)
-* [ ] Google Style Guide: for [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+* [ ] Code Complete: A Practical Handbook of Software Construction
+* [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+* [ ] Working Effectively with Legacy Code
+* [ ] Head First Design Patterns
+* [ ] Writing Secure Code, Second Edition or Threat Modeling
+- [Google Style Guides](https://github.com/google/styleguide):
+  * [ ] For [Python](https://google.github.io/styleguide/pyguide.html)
+  * [ ] For [JavaScript](https://google.github.io/styleguide/jsguide.html)
+  * [ ] For [C++](https://google.github.io/styleguide/cppguide.html)
+  * [ ] For [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
 * [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 * [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation
 * [ ] [Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
@@ -194,9 +202,9 @@ pick and choose, no particular order
   * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
   * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
     - Part 1: Building Accessible and Responsive Web Apps:
-      - [ ] [Responsive Web Design Fundamentals](https://eg.udacity.com/course/responsive-web-design-fundamentals--ud893)
-      - [ ] [Responsive Images](https://eg.udacity.com/course/responsive-images--ud882)
-      - [ ] [Web Accessibility](https://eg.udacity.com/course/web-accessibility--ud891)
+      - [ ] Responsive Web Design Fundamentals
+      - [ ] Responsive Images
+      - [ ] Web Accessibility
       - [ ] Project: Restaurant Reviews App—Stage One
   * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
@@ -251,11 +259,18 @@ pick and choose, no particular order
 - **Youtube**:
   - Arabic Channels: [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv), [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy), [Elzero Web School](https://www.youtube.com/user/OsamaElzero)
   - English Channels: [sentdex](https://www.youtube.com/user/sentdex), [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [thenewboston](https://www.youtube.com/user/thenewboston)
+  - Chosen courses from these channels:
+    - [ ] 
+  - Courses on my computer:
+    - [ ] 
   * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
 
-- **Others**:
-  * [ ]  [Getting Sassy with CSS](http://www.sassshop.com/)
-
+- **Full Paths**:
+  - [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+  - [FCC](https://www.freecodecamp.org/)
+  - [OSSU](https://github.com/ossu/computer-science)
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+  - [The Odin Project](https://www.theodinproject.com/)
 
 ## Helpful links
 
@@ -276,7 +291,7 @@ pick and choose, no particular order
   - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
   - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
   - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
-  - [Sass](http://sass-lang.com/guide) - supercharged CSS
+  - [Sass](http://sass-lang.com/guide) - supercharged CSS, for more check [Getting Sassy with CSS](http://www.sassshop.com/)
   - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
   - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
   - [MongoDB](https://docs.mongodb.com/) - for storing data
