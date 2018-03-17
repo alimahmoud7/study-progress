@@ -132,7 +132,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 | Official Docs (total)                       | 300                   | foundation    | 
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
-| Tutorial site (Udacity/Pluralsight/Egghead/Treehouse/etc) course                            | 250                   | foundation    |
+| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 250                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
 | Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
@@ -141,8 +141,10 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 | Crowd Analytix Competition                  | 50                    | data-science  |
 | Kaggle Competition                          | 50                    | data-science  |
 | Driven Data Competition                     | 50                    | data-science  |
+| Design Competition                          | 50                    | design        |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
+| Practice writing skills (30 minutes)        | 10                    | communication |
 | Video Tutorial                              | 50                    | communication |
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
