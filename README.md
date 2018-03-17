@@ -160,7 +160,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 *  Speedrun / Practice on [Fullstack Web Development](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/fullstack-dev.md)
 *  Speedrun / Practice on [Algorithms and Data Structures](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/algorithms.md)
-* USB demon clone project
+* USB Clone Daemon - project
 * Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice)
 *   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
@@ -236,6 +236,7 @@ pick and choose, no particular order
   * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
   * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
   * [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+  * [ ]  [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
   * [ ]  [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
 - **Stanford Online**:
