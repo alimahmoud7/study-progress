@@ -181,7 +181,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 * [ ] Clean Code: A Handbook of Agile Software Craftsmanship
 * [ ] Working Effectively with Legacy Code
 * [ ] Head First Design Patterns
-* [ ] Writing Secure Code, Second Edition or Threat Modeling
+* [ ] Writing Secure Code Second Edition OR Threat Modeling
 - [Google Style Guides](https://github.com/google/styleguide):
   * [ ] For [Python](https://google.github.io/styleguide/pyguide.html)
   * [ ] For [JavaScript](https://google.github.io/styleguide/jsguide.html)
@@ -199,7 +199,7 @@ pick and choose, no particular order
 
 - **Udacity**:
   * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
-  * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac) covers []() and []()
+  * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac)
   * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
   * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
   * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
@@ -261,7 +261,7 @@ pick and choose, no particular order
 
 - **Youtube**:
   - Arabic Channels: [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv), [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy), [Elzero Web School](https://www.youtube.com/user/OsamaElzero)
-  - English Channels: [sentdex](https://www.youtube.com/user/sentdex), [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [thenewboston](https://www.youtube.com/user/thenewboston)
+  - English Channels: [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [sentdex](https://www.youtube.com/user/sentdex), [thenewboston](https://www.youtube.com/user/thenewboston)
   - Chosen courses from these channels:
     - [ ] 
   - Courses on my computer:
