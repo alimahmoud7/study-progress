@@ -253,7 +253,7 @@ pick and choose, no particular order
 - **MongoDB University**:
   * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
   
-  - **Pluralsight**:
+- **Pluralsight**:
   * [ ]  [Python Path](https://www.pluralsight.com/paths/python)
   * [ ]  [Ethical Hacking - CEH Path](https://www.pluralsight.com/paths/ethical-hacking)
 
@@ -266,9 +266,7 @@ pick and choose, no particular order
 - **Youtube**:
   - Arabic Channels: [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv), [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy), [Elzero Web School](https://www.youtube.com/user/OsamaElzero)
   - English Channels: [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [sentdex](https://www.youtube.com/user/sentdex), [thenewboston](https://www.youtube.com/user/thenewboston)
-  - Chosen courses from these channels:
-    - [ ] 
-  - Courses on my computer:
+  - Chosen courses:
     - [ ] 
   * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
 
