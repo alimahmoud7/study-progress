@@ -247,15 +247,18 @@ pick and choose, no particular order
   * [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
   * [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 
-- **Pluralsight**:
+- **Harvard University**:
+  * [ ]  Course: [Web Programming with Python and JavaScript](https://cs50.github.io/web/)
+  
+- **MongoDB University**:
+  * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
+  
+  - **Pluralsight**:
   * [ ]  [Python Path](https://www.pluralsight.com/paths/python)
   * [ ]  [Ethical Hacking - CEH Path](https://www.pluralsight.com/paths/ethical-hacking)
 
 - **FutureLearn**:
   * [ ]  [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
-  
-- **MongoDB University**:
-  * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
   
 - **Google Search Education**:
   * [ ]  [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course)
