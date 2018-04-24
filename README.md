@@ -201,8 +201,7 @@ pick and choose, no particular order
 - **Udacity**:
   * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
   * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac)
-  * [ ]  Full Stack Nanodegree [Career Part](https://classroom.udacity.com/nanodegrees/nd004/parts/56d39ed4-c3b0-4db7-a503-8bd08b9045ae)
-  * [ ]  Full Stack Nanodegree Elective Course: [Networking for Web Developers](https://classroom.udacity.com/nanodegrees/nd004/parts/708be54d-fd6e-4e91-b7d9-02a382d7a526)
+  * [ ]  Full Stack Nanodegree [Extracurricular](https://classroom.udacity.com/nanodegrees/nd004/syllabus/extracurricular)
   * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
     - Part 1: Building Accessible and Responsive Web Apps:
       - [ ] Responsive Web Design Fundamentals
@@ -266,8 +265,6 @@ pick and choose, no particular order
 - **Youtube**:
   - Arabic Channels: [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv), [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy), [Elzero Web School](https://www.youtube.com/user/OsamaElzero)
   - English Channels: [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ), [Corey Schafer](https://www.youtube.com/user/schafer5), [sentdex](https://www.youtube.com/user/sentdex), [thenewboston](https://www.youtube.com/user/thenewboston)
-  - Chosen courses:
-    - [ ] 
   * [ ]  [CCNA - Ahmed Nazmy](https://www.youtube.com/playlist?list=PL77yNtB4-LjlcazC5_mnwM1ClSmm9qp50) or [CCNA - Ahmed Ra'fat](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8Ga0aoHhDAtnodzezIl98B)
 
 - **Full Paths**:
@@ -296,6 +293,8 @@ pick and choose, no particular order
   - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
   - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
   - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
+  - [Flask](http://flask.pocoo.org/) - Python microframework
+  - [Django](https://www.djangoproject.com/) - Python framework
   - [Sass](http://sass-lang.com/guide) - supercharged CSS, for more check [Getting Sassy with CSS](http://www.sassshop.com/)
   - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
   - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
@@ -303,6 +302,7 @@ pick and choose, no particular order
   - [Mongoose](http://mongoosejs.com/) - access to MongoDB from Node.js made easy(er)
   - [Passport.js](http://passportjs.org/) - remember this link when you have to setup a login system
   - [D3](https://d3js.org/) - for creating awesome graphs and charts
+  - [AngularJS](https://angularjs.org/) - option for creating single page apps on the frontend
   - [Angular](https://angular.io/) - option for creating single page apps on the frontend
   - [React](https://reactjs.org/) - option for creating single page apps on the frontend
   - [Vue](https://vuejs.org/) - option for creating single page apps on the frontend
