@@ -38,7 +38,7 @@ Total Points earned: 850
 
 ---
 
-## Get Job Ready - Python Edition
+## Python Edition Guide
 
 Check the [general FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md), [FAQ for this guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md#faq-for-this-guide)   
 
@@ -120,6 +120,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
 - [ ]  Project: Continue honing your skills as you interview. Participate in more bot competitions on CodinGame, participate in competitions on Kaggle, contribute to open source JavaScript or Python projects, work on side projects that illustrate your frontend skill.
 
+---
+
 ## Bonus List
 
 | Activity                                    | Points for completing | Activity type |
@@ -174,7 +176,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
 
----
 
 ## Book Suggestions
 
