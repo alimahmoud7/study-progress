@@ -20,8 +20,8 @@ My main goals are to
 
 ## Progress
 
-Current Course: MWS Nanodegree - Part 1 - Responsive Web Design   
-Current Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)     
+Current Course: **Working on my final exams** <!--MWS Nanodegree - Part 1 - Responsive Web Design-->   
+Current Book: **Working on my final exams**   
 Courses Completed: 3  
 Books Completed: 0  
 Total Points earned: 850    
