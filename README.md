@@ -223,11 +223,12 @@ pick and choose, no particular order
 - **Coursera**:
   * [ ]  [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php)
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+  * [ ]  [Google IT Support Professional Certificate](https://www.coursera.org/specializations/google-it-support)
+  * [ ]  [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
   * [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
   * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
   * [ ]  [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
   * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
-  * [ ]  [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
   * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 - **edX**:
