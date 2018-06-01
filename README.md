@@ -230,16 +230,18 @@ pick and choose, no particular order
   * [ ]  [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
   * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
   * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
+  * [ ]  [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security)
 
 - **edX**:
   * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-  * [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-  * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-  * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
-  * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-  * [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-  * [ ]  [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
   * [ ]  [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+  * [ ]  [Software Development MicroMasters Program](https://www.edx.org/micromasters/software-development)
+    * [ ]  [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+    * [ ]  [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+    * [ ]  [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
+    * [ ]  [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
+    * [ ]  [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+    * [ ]  [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 
 - **Stanford Online**:
   * [ ]  [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
