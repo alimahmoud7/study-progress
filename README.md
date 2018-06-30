@@ -20,8 +20,8 @@ My main goals are to
 
 ## Progress
 
-Current Course: **Working on my final exams** <!--MWS Nanodegree - Part 1 - Responsive Web Design-->   
-Current Book: **Working on my final exams**   
+Current Course: MWS Nanodegree - Part 1 - Responsive Web Design   
+Current Technical Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 Courses Completed: 3  
 Books Completed: 0  
 Total Points earned: 850    
@@ -39,6 +39,8 @@ Total Points earned: 850
 ---
 
 ## Python Edition Guide
+
+-- *This guide I choosed from [p1xt-guides](https://github.com/P1xt/p1xt-guides)*
 
 Check the [general FAQ](https://github.com/P1xt/p1xt-guides/blob/master/faq.md), [FAQ for this guide](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-python-edition.md#faq-for-this-guide)   
 
@@ -122,42 +124,6 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ---
 
-## Bonus List
-
-| Activity                                    | Points for completing | Activity type |
-| ------------------------------------------- | --------------------- | ------------- |
-| Basic Project                               | 100                   | project       |
-| Substantial Project                         | 200                   | project       |
-| Large Project                               | 300                   | project       |
-| Gigantic Project                            | 400                   | project       |
-| Official Docs (part)                        | 50                    | foundation    | 
-| Official Docs (total)                       | 300                   | foundation    | 
-| Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
-| Book                                        | 200                   | foundation    |
-| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 250                   | foundation    |
-| University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
-| Physical Activity (30 minutes)                          | 10                    | foundation    |
-| Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
-| Khan Academy (30 minutes)                          | 10                    | foundation    |
-| Analytics Vidhya Competition                | 50                    | data-science  |
-| Crowd Analytix Competition                  | 50                    | data-science  |
-| Kaggle Competition                          | 50                    | data-science  |
-| Driven Data Competition                     | 50                    | data-science  |
-| Design Competition                          | 50                    | design        |
-| Blog Post on any topic                      | 15                    | communication |
-| Blog Post Tutorial                          | 40                    | communication |
-| Practice writing skills (30 minutes)        | 10                    | communication |
-| Video Tutorial                              | 50                    | communication |
-| Open Source PR                              | 50                    | communication |
-| Module to npm                               | 200                   | communication |
-| Team Up for a project                       | 100                   | communication |
-| Diary entry                                 | 5                     | communication |
-| CodeWars (10 problems)                      | 50                    | algorithms    |
-| CodinGame (1 Tier)                          | 100                   | algorithms    |
-| CodinGame (1 Bot Competition)               | 20                    | algorithms    |
-| HackerRank (10 problems)                    | 50                    | algorithms    |
-| Google Code Jam (1 round from past contest) | 100                   | algorithms    |
-
 ## Project ideas
 
 *  Speedrun / Practice on [Fullstack Web Development](https://github.com/P1xt/p1xt-guides/blob/master/speedrun-practice/fullstack-dev.md)
@@ -209,7 +175,6 @@ pick and choose, no particular order
       - [ ] Responsive Images
       - [ ] Web Accessibility
       - [ ] Project: Restaurant Reviews App—Stage One
-  * [ ]  [Intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
   * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
   * [ ]  [Linear Algebra Refresher Course](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
@@ -225,14 +190,15 @@ pick and choose, no particular order
   * [ ]  [Full Stack Web Development on Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
   * [ ]  [Google IT Support Professional Certificate](https://www.coursera.org/specializations/google-it-support)
   * [ ]  [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  * [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
-  * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
-  * [ ]  [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
-  * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
   * [ ]  [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
   * [ ]  [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security)
+  * [ ]  [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
+  * [ ]  [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code/)
+  * [ ]  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) or check [Rwaq version](https://www.rwaq.org/courses/learning)
+  * [ ]  [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history/)
 
 - **edX**:
+  * [ ]  [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web)
   * [ ]  [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
   * [ ]  [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
   * [ ]  [Software Development MicroMasters Program](https://www.edx.org/micromasters/software-development)
@@ -250,9 +216,6 @@ pick and choose, no particular order
   * [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
   * [ ]  Course: [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
 
-- **Harvard University**:
-  * [ ]  Course: [Web Programming with Python and JavaScript](https://cs50.github.io/web/)
-  
 - **MongoDB University**:
   * [ ]  [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University
   
@@ -277,6 +240,7 @@ pick and choose, no particular order
   - [OSSU](https://github.com/ossu/computer-science)
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [The Odin Project](https://www.theodinproject.com/)
+  - [Arabic Path by Osama Elzero for web developer&designer](https://elzero.org/learning-paths/web-developer/)  
 
 ## Helpful links
 
@@ -320,6 +284,44 @@ pick and choose, no particular order
   - [ESLint](https://eslint.org/) - for helping to keep your code clean
   - [Prettier](https://prettier.io/) - more help keeping your code clean
   - [Travis](https://travis-ci.org/) - continuous deployment (how to trigger a build/deploy whenever you commit your changes via git)
+
+---
+
+## Bonus List
+
+| Activity                                    | Points for completing | Activity type |
+| ------------------------------------------- | --------------------- | ------------- |
+| Basic Project                               | 100                   | project       |
+| Substantial Project                         | 200                   | project       |
+| Large Project                               | 300                   | project       |
+| Gigantic Project                            | 400                   | project       |
+| Official Docs (part)                        | 50                    | foundation    | 
+| Official Docs (total)                       | 300                   | foundation    | 
+| Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
+| Book                                        | 200                   | foundation    |
+| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 250                   | foundation    |
+| University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
+| Physical Activity (30 minutes)                          | 10                    | foundation    |
+| Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
+| Khan Academy (30 minutes)                          | 10                    | foundation    |
+| Analytics Vidhya Competition                | 50                    | data-science  |
+| Crowd Analytix Competition                  | 50                    | data-science  |
+| Kaggle Competition                          | 50                    | data-science  |
+| Driven Data Competition                     | 50                    | data-science  |
+| Design Competition                          | 50                    | design        |
+| Blog Post on any topic                      | 15                    | communication |
+| Blog Post Tutorial                          | 40                    | communication |
+| Practice writing skills (30 minutes)        | 10                    | communication |
+| Video Tutorial                              | 50                    | communication |
+| Open Source PR                              | 50                    | communication |
+| Module to npm                               | 200                   | communication |
+| Team Up for a project                       | 100                   | communication |
+| Diary entry                                 | 5                     | communication |
+| CodeWars (10 problems)                      | 50                    | algorithms    |
+| CodinGame (1 Tier)                          | 100                   | algorithms    |
+| CodinGame (1 Bot Competition)               | 20                    | algorithms    |
+| HackerRank (10 problems)                    | 50                    | algorithms    |
+| Google Code Jam (1 round from past contest) | 100                   | algorithms    |
 
 ---
 
