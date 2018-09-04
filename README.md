@@ -2,8 +2,6 @@
 
 In each folder, separated by year, are my notes, etc related to what I'm studying, doing, learning...
 
-You can find my name on the list here [speedstudy](https://github.com/P1xt/speedstudy#progress), My goal is to see how many points I can rack up by December 31, 2018.
-
 ## 2018
 
 My main goals are to 
@@ -24,17 +22,6 @@ Current Course: MWS Nanodegree - Part 1 - Responsive Web Design
 Current Technical Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 Courses Completed: 3  
 Books Completed: 0  
-Total Points earned: 850    
-
-| Date Finished | Activity      | Points | Links     |
-| ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 24-1-2018     | Course        | 250    | [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898) |
-| 25-1-2018     | Duolingo (English level 10)  | 100  | [Duolingo](https://www.duolingo.com/Ali.Mahmoud.7) |
-| 1-2-2018           | 2 Courses        | 500    | Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) |
-| WIP           | Book          | 200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
-| WIP           | Course         | 250   | MWS Nanodegree - Part 1 - Responsive Web Design  |
-|  |  |  |  |
-|  |  |  |  |
 
 ---
 
@@ -166,15 +153,26 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 pick and choose, no particular order
 
 - **Udacity**:
-  * [x]  Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
+  * [x]  [1-2-2018] Google Developer Challenge Scholarship: [Mobile Web](https://classroom.udacity.com/courses/ud899-emea) covers [Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) and [ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
   * [ ]  One Million Arab Coders Program: [Data Analysis Track](https://classroom.udacity.com/courses/ud002-track-1mac)
   * [ ]  Full Stack Nanodegree [Extracurricular](https://classroom.udacity.com/nanodegrees/nd004/syllabus/extracurricular)
-  * [ ]  [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
+  * [x]  [31-8-2018] [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024)
     - Part 1: Building Accessible and Responsive Web Apps:
-      - [ ] Responsive Web Design Fundamentals
-      - [ ] Responsive Images
-      - [ ] Web Accessibility
-      - [ ] Project: Restaurant Reviews App—Stage One
+      - [x] Responsive Web Design Fundamentals
+      - [x] Responsive Images
+      - [x] Web Accessibility
+      - [x] Project: Restaurant Reviews App—Stage One
+    - Part 2: Building Offline Capable Web Apps:
+      - [ ] Asynchronous JavaScript Requests 
+      - [x] ES6 JavaScript Improved
+      - [x] Offline Web Applications
+      - [ ] Web Tooling and Automation
+      - [x] Project: Restaurant Reviews App—Stage Two
+    - Part 3: Building Performant Web Apps:
+      - [ ] Client Server Communication
+      - [ ] Browser Rendering Optimization
+      - [x] Project: Restaurant Reviews App—Stage Three
+  * [x]  [24-1-2018] [JavaScript Promises](https://eu.udacity.com/course/javascript-promises--ud898)
   * [ ]  [Software Testing](https://www.udacity.com/course/software-testing--cs258)
   * [ ]  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
   * [ ]  [Linear Algebra Refresher Course](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
