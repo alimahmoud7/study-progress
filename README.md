@@ -16,12 +16,10 @@ My main goals are to
 1. Add bonus objectives from bonus list as often as desired.
 1. All Assignments must be complete for course to be considered complete.
 
-## Progress
+## Full Guides
 
-Current Course: MWS Nanodegree - Part 1 - Responsive Web Design   
-Current Technical Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-Courses Completed: 3  
-Books Completed: 0  
+1. [p1xt-guides](https://github.com/P1xt/p1xt-guides) 
+1. [ossu](https://github.com/ossu/computer-science)
 
 ---
 
